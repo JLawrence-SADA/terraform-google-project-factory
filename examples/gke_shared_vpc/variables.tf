@@ -19,15 +19,15 @@ variable "credentials_path" {
 }
 
 variable "org_id" {
-  description = "organization id"
+  description = "43663619702"
 }
 
 variable "billing_account" {
-  description = "billing account"
+  description = "01C07B-A9C777-D50BC8"
 }
 
 variable "shared_vpc" {
-  description = "The ID of the host project which hosts the shared VPC"
+  description = "sada-jon-lawrence"
 }
 
 variable "shared_vpc_subnets" {
